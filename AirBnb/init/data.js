@@ -1,3 +1,6 @@
+
+//All Data save here create a model and require models in listing
+
 const sampleListings = [
     {
       title: "Cozy Beachfront Cottage",
