@@ -1,6 +1,8 @@
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
+
+//Basic Schema for listing and use this in init folder by module.exports method;
 const listingSchema = new Schema({
     title:{
         type:String,
